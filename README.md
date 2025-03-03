@@ -31,5 +31,5 @@ This project is a Node.js-based web API that handles basic user registration, au
 
 ---
 
-
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://www.postman.com/yyassine24/workspace/webapi-younesyassine/collection/38973044-b5fec9a3-b819-48ed-bb0c-87225ebf30f3?action=share&creator=38973044&active-environment=38973044-ceb6e74b-f2c8-4318-9ecd-8487d0df4204)
 
